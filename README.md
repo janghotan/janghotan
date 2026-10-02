@@ -31,7 +31,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=janghotan&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=15803D&text_color=E5E7EB" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghotan&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janghotan&hide_border=true&background=0D1117&ring=15803D&fire=22D3EE&currStreakLabel=22D3EE" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janghotan&hide_border=true&background=0D1117&ring=15803D&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF" />
 
 </div>
 
