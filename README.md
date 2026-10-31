@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,docker,linux,git,bash,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,go,docker,linux,git,bash,vscode&theme=dark" />
 
 </div>
 
