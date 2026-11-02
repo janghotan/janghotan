@@ -28,10 +28,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=janghotan&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=15803D&text_color=E5E7EB" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghotan&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
-
-<img src="https://streak-stats.demolab.com?user=janghotan&hide_border=true&background=0D1117&ring=15803D&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF" />
+![](https://img.shields.io/badge/Total_Contributions-143-0D1117?style=for-the-badge&labelColor=0D1117&color=15803D)
+![](https://img.shields.io/badge/Current_Streak-2-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE)
+![](https://img.shields.io/badge/Longest_Streak-8-0D1117?style=for-the-badge&labelColor=0D1117&color=E5E7EB)
 
 </div>
 
