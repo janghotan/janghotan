@@ -31,7 +31,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=janghotan&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=15803D&text_color=E5E7EB" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghotan&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janghotan&hide_border=true&background=0D1117&ring=15803D&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF" />
+<img src="https://streak-stats.demolab.com?user=janghotan&hide_border=true&background=0D1117&ring=15803D&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF" />
 
 </div>
 
@@ -44,7 +44,7 @@
 <br/><br/>
 
 [![X](https://img.shields.io/badge/-@janghotan-000000?style=for-the-badge&logo=x&logoColor=22D3EE)](https://x.com/janghotan)
-[![Email](https://img.shields.io/badge/-janghotan@gmail.com-15803d?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:janghotan@gmail.com)
+[![Email](https://img.shields.io/badge/-janghotan%40gmail.com-15803d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janghotan@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:15803d,100:0a0a0a&height=100&section=footer" width="100%"/>
 
